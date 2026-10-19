@@ -1,0 +1,6 @@
+{
+  "name": "Transmify",
+  "description": "Transmission remote client with MD3 Expressive design, seeding stats, notifications and RuTracker search",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

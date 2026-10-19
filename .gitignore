@@ -1,0 +1,24 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Gradle / Android
+**/.gradle/
+**/build/
+**/local.properties
+**/.kotlin/
+**/captures/
+**/.externalNativeBuild/
+**/.cxx/
+
+# Local build artifacts / private keys (APK публикуются в GitHub Releases)
+**/*.apk
+**/*.zip
+keys/
+**/.env
+**/*.jks
+**/*.keystore
+**/debug.keystore

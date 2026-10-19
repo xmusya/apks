@@ -1,0 +1,6 @@
+{
+  "name": "Groq AI Chat",
+  "description": "High-performance Groq AI client featuring Material 3 Expressive Monet design, token and latency statistics, local chat history, model customization, and adaptive dual-pane tablet support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
